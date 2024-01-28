@@ -1,0 +1,13 @@
+.view {
+    color: white;
+    background-color: #82A0D8;
+    border: none;
+    border-radius: 2px;
+}
+
+.edit {
+    color: white;
+    background-color: #1F4168;
+    border: none;
+    border-radius: 2px;
+}
